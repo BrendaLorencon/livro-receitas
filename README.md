@@ -2,5 +2,5 @@
 
 Olá! bem vindo ao meu livro de receitas. :wave:
 
-- Feijoada 
-- Cassoulet de Frango
+- Feijoada.
+- Cassoulet de Frango.
